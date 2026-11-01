@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center 66dp zone (21,21 to 87,87) -->
+    <!-- Flight departure trail arc -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,48 C44,34 64,30 76,34" />
+    <!-- Airplane symbol -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,33 L85,31 L83,38 L79,36 L76,41 L73,40 L75,35 Z" />
+
+    <!-- Sleek Curbside Car Silhouette -->
+    <!-- Car body top & roofline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,62 L43,49 C45,46 48,45 52,45 L66,45 C70,45 73,46 75,49 L83,62 C86,63 88,66 88,70 L88,73 C88,75 86,76 84,76 L82,76 C82,78 80,80 78,80 L76,80 C74,80 72,78 72,76 L46,76 C46,78 44,80 42,80 L40,80 C38,80 36,78 36,76 L34,76 C32,76 30,75 30,73 L30,70 C30,66 32,63 35,62 Z" />
+
+    <!-- Windshield and Windows -->
+    <path
+        android:fillColor="#0B1B32"
+        android:pathData="M45,51 L57,51 L57,60 L39,60 Z" />
+    <path
+        android:fillColor="#0B1B32"
+        android:pathData="M61,51 L73,51 L79,60 L61,60 Z" />
+
+    <!-- Headlights & Valet Key badge -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M35,66 A2.5,2.5 0 0 1 35,71 A2.5,2.5 0 0 1 35,66 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M83,66 A2.5,2.5 0 0 1 83,71 A2.5,2.5 0 0 1 83,66 Z" />
+
+    <!-- Valet Service Tag badge -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M52,67 L66,67 C67.1,67 68,67.9 68,69 L68,70 C68,71.1 67.1,72 66,72 L52,72 C50.9,72 50,71.1 50,70 L50,69 C50,67.9 50.9,67 52,67 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "TerminalDrop",
+  "description": "Airport rental car valet return service. Travelers drop their rental cars directly at the departure terminal curb, and our concierge takes it back to the rental agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
